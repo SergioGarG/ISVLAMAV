@@ -1,0 +1,3 @@
+mensaje_kalman[] estado_vector
+mensaje_kalman[][] covarianza_vector
+

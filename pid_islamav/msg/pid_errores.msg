@@ -1,0 +1,11 @@
+# header
+Header      header
+
+# ----------------- Errores del controlador PID ----------------------------
+float64 xe
+float64 ye
+float64 ze
+float64 yawe
+
+# Estado dentro de la máquina de estados que marca los puntos de ruta del drone
+uint32 m 
